@@ -1,2 +1,2 @@
 # voice_exe
-use voice to execute your program/file
+use your voice to execute your program/file
